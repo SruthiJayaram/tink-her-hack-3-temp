@@ -11,7 +11,7 @@
 - Member 3: Niloophar Sulthana - Cusat
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://prepmate987.netlify.app/
 
 ### Project Description
 "Prep Mate is your ultimate meal planning companion, designed to simplify your food choices while prioritizing your health and wellness. Whether you're looking for meals based on your dietary preferences, meal timing, or specific health needs like diabetes, allergies, or weight loss goals, Prep Mate tailors meal suggestions just for you
